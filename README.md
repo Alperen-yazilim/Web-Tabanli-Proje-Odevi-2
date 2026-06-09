@@ -1,6 +1,6 @@
 # Aile Hekimi Bilgi Sistemi (AHBS)
 
-Bu proje, Bursa Teknik Üniversitesi "Veritabanı Yönetim Sistemleri" dersi final projesi kapsamında geliştirilmiştir. Sistem, aile hekimlerinin hastalarını ve hastalarına ait muayene kayıtlarını güvenli bir şekilde yönetebilmesini sağlayan yalın (framework kullanılmayan) web tabanlı bir uygulamadır.
+Bu proje, Bursa Teknik Üniversitesi "Web Tabanlı Programlama" dersi final projesi kapsamında geliştirilmiştir. Sistem, aile hekimlerinin hastalarını ve hastalarına ait muayene kayıtlarını güvenli bir şekilde yönetebilmesini sağlayan yalın (framework kullanılmayan) web tabanlı bir uygulamadır.
 
 ## 🚀 Proje Özellikleri ve Kriterler
 
