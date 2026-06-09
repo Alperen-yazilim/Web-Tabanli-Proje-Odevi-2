@@ -25,11 +25,9 @@ Bu proje, Bursa Teknik Üniversitesi "Veritabanı Yönetim Sistemleri" dersi fin
 
 ## 🎥 Proje Tanıtım Videosu
 
-Projenin nasıl çalıştığını, kod yapısını ve veritabanı işlemlerini anlattığım kısa tanıtım videosuna aşağıdaki bağlantıdan ulaşabilirsiniz:
+Projenin nasıl çalıştığını ve veritabanı işlemlerini anlattığım kısa tanıtım videosuna aşağıdaki bağlantıdan ulaşabilirsiniz:
 
-▶️ **[Proje Tanıtım Videosunu İzlemek İçin Tıklayın]( BURAYA_YOUTUBE_VEYA_DRIVE_LINKINI_YAPISTIR )**
-
-*(Not: Link bir Google Drive bağlantısıysa, erişim izninin "Bağlantıya sahip olan herkes görebilir" olarak ayarlandığından emin olunmuştur.)*
+▶️ **[Proje Tanıtım Videosunu İzlemek İçin Tıklayın]( https://drive.google.com/file/d/1-Jjm9arnZV1gyMeCsFCE5NR21edzhBmA/view?usp=drive_link )**
 
 ---
 
